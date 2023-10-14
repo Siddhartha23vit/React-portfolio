@@ -16,7 +16,7 @@ function Resume() {
       "CSS3",
       "JavaScript",
       "React",
-      "Responsive Design",
+      "Mongo DB",
   
     ]
   };

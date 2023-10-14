@@ -2,9 +2,9 @@ import React from 'react';
 
 function About() {
   const aboutData = {
-    name: "Siddhartha Sukhavasi",
+    name: "HAri Vamshika Bourishetty",
     address: "Hyderabad, Telanagana, India",
-    website: "www.sid.com",
+    website: "www.hvb.com",
     aboutme: "I'm a web developer with a passion for creating user-friendly and visually appealing websites. I have experience in HTML, CSS, JavaScript, and various web development frameworks."
   };
 
@@ -12,7 +12,7 @@ function About() {
     <section id="about">
       <div className="row">
         <div className="three columns">
-          <img className="profile-pic" src="images/Profile.jpg" alt="Profile" />
+          <img className="profile-pic" src="images/Profil.jpg" alt="Profile" />
         </div>
         <div className="nine columns main-col">
           <h2>About Me</h2>
