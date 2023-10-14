@@ -1,0 +1,27 @@
+.top-nav {
+    background-color: #333;
+    overflow: hidden; 
+  }
+  
+  .top-nav ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  .top-nav li {
+    float: left; 
+    margin-right: 20px; 
+  }
+  
+  .top-nav li a {
+    color: white; 
+    text-decoration: none; 
+    padding: 14px 16px; 
+    display: block;
+  }
+  
+  .top-nav li a:hover {
+    background-color: #555;
+  }
+  
