@@ -2,8 +2,8 @@ import React from 'react';
 
 function ContactUs() {
   const contactData = {
-    email: "hvamshika@gmail.com",
-    phone: "+91 8452352548",
+    email: "Sid@gmail.com",
+    phone: "+91 7036623665",
     address: "Hyderabad, Telangana, India   ",
   };
 

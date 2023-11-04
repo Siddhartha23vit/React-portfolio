@@ -5,7 +5,7 @@ function Portfolio() {
     projects: [
       {
         title: "Project 1",
-        description: "Developed frint end site for the technical club i was in",
+        description: "Revamped an existing auditing website to a better and responsive version.",
       },
       {
         title: "Project 2",
